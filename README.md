@@ -8,3 +8,5 @@ Setup:
 6. cd ../..
 7. export FLASK_APP=main.py
 8. flask run
+9. In the new tab: cd frontend/app
+10. npm run
